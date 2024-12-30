@@ -6,15 +6,21 @@
     <div style="margin-top: 20px; text-align: left; width: 80%; margin-left: auto; margin-right: auto;">
       <h2 style="color: #282d33;">세종시 빅데이터 공모전</h2>
       <p style="font-size: 16px; color: #585858;">
-        이 프로젝트는 세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지를 선정한 프로젝트입니다. 주요 작업은 다음과 같습니다:
+        세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지 선정 프로젝트입니다.
       </p>
-      <ul style="font-size: 16px; color: #585858; line-height: 1.8;">
-        <li>Python과 Pandas를 사용하여 데이터 분석</li>
-        <li>Tableau를 활용한 데이터 시각화</li>
-        <li>지역별 열섬 현상 분석</li>
-      </ul>
+      <h3 style="color: #282d33; margin-top: 20px;">사용 툴</h3>
+      <p style="font-size: 16px; color: #585858;">
+        Python, Pandas, Tableau
+      </p>      
+      <h3 style="color: #282d33; margin-top: 20px;">어려웠던 점</h3>
+      <p style="font-size: 16px; color: #585858;">
+        폭염 데이터와 교통 데이터 간의 상관관계를 분석하며 시각적으로 설득력 있는 결과를 도출하는 데 많은 노력이 필요했습니다.
+      </p>      
+      <h3 style="color: #282d33; margin-top: 20px;">프로젝트 배경</h3>
+      <p style="font-size: 16px; color: #585858;">
+        폭염은 도시의 주요 환경 문제로, 쿨페이브먼트를 효과적으로 배치해 폭염 저감을 목표로 한 프로젝트입니다.
+      </p>
     </div>
   </div>
-
 
 
