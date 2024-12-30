@@ -18,7 +18,7 @@
       </p>
       <hr style="border: 1px solid #d8dee4; margin: 20px 0;">
       <h3 style="color: #282d33; margin-top: 20px;">
-        <span style="color: #03A9F4; font-size: 24px; margin-right: 8px;">•</span> 어려웠던 점
+        <span style="color: #03A9F4; font-size: 24px; margin-right: 8px;">•</span> 한계점
       </h3>
       <p style="font-size: 16px; color: #585858;">
         폭염 데이터와 교통 데이터 간의 상관관계를 분석하며 시각적으로 설득력 있는 결과를 도출하는 데 많은 노력이 필요했습니다.
