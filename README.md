@@ -6,7 +6,8 @@
     <div style="margin-top: 20px; text-align: left; width: 80%; margin-left: auto; margin-right: auto;">
       <h2 style="color: #282d33;">세종시 빅데이터 공모전</h2>
       <p style="font-size: 16px; color: #585858;">
-        세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지 선정 프로젝트입니다.
+        니즈를 파악하고 그에 맞는 분석 아이디어를 제시하고 싶다는 갈증을 느껴 팀을 모아 세종시 빅데이터 분석 공모전에 나갔습니다. 
+        세종시의 반복적으로 문제가 되는 것과, 시민들이 바로 체감할 수 있는 것, 실제 효과를 본 사례가 있는지 등을 고려해 주제를 선정하였습니다. 
       </p>
       <hr style="border: 1px solid #d8dee4; margin: 20px 0;">
       <h3 style="color: #282d33; margin-top: 20px;">
