@@ -2,7 +2,7 @@
   <img src="https://github.com/jinjin7766/Portfolio/blob/main/%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%91%9C%EC%A7%80.png" alt="Cool Pavement 프로젝트" style="width: 80%; height: auto; border-radius: 8px; border: 1px solid #d8dee4;">
 </div>
 
-## 프로젝트 요약 
+## 프로젝트 요약 [**(PDF 보기)**](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf)
 세종특별자치시의 폭염일수 증가 문제를 해결하기 위해 쿨페이브먼트 도입을 제안하고, 유동인구 밀집 지역을 선정하여 시민이 체감할 수 있는 효과를 극대화한 프로젝트입니다.
 
 
